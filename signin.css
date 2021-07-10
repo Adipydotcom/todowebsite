@@ -1,0 +1,18 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.alert {
+    margin-top: 56px;
+}
+
+.container {
+    /* height: 70vh; */
+    margin-top: 5rem;
+    /* border: 2px solid red; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

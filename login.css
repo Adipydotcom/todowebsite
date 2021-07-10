@@ -1,0 +1,13 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.main {
+    /* border: 2px solid red; */
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
